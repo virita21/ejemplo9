@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+header {
+    background: black;
+    color: white;
+}
+
+header ul {
+    width: 45%;
+    display: inline-block;
+    text-align: right;
+}
+
+header ul li {
+    display: inline-block;
+}
+
+header h1 {
+    margin: 0;
+    width: 38%;
+    display: inline-block;
+    font-size: 20px;
+}
+
+header h1 a {
+    color: white;
+    text-decoration: none;
+}
+
+section#cover {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+section#listado-tours {
+    background-color: white
+}
+
+section#listado-tours article {
+    text-align: center;
+}
+
+section#listado-tours article img {
+    width: 500px;
+}
