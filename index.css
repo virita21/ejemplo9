@@ -30,19 +30,43 @@ header h1 a {
     text-decoration: none;
 }
 
+section#cover h2  {
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 50px;
+
+}
+
+section#cover p  {
+    text-align: center;
+    text-justify: auto;
+
+}
+
 section#cover {
     text-align: center;
-    margin-bottom: 40px;
+    margin-bottom: 20px;
+}
+
+section#info-coloradas article img {
+    width: 650px;
+    margin-left: 20%;
+    margin-top: 20px;
 }
 
 section#listado-tours {
-    background-color: white
+    background-color: white;
 }
 
 section#listado-tours article {
     text-align: center;
+    
 }
 
 section#listado-tours article img {
-    width: 500px;
+    width: 600px;
+}
+
+section#info-coloradas article h4 {
+    text-align: center;
 }
